@@ -1,0 +1,293 @@
+2021-10-11 17:11:52.805 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v12.13.0 on win32[0m
+2021-10-11 17:11:53.608 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\aadar\Desktop\PROJECTS\Custom Apps/.fdk/store.sqlite"[0m
+2021-10-11 17:11:53.826 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"version","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-10-11 17:11:53.828 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-11 17:11:53.828 +0530 [debug] ([34mupdater.js[0m) [31munknown last check, likely a new installation, looking for updates again[0m
+2021-10-11 17:12:02.986 +0530 [debug] ([34mupdater.js[0m) [31mremote fdk - 7.0.1, local fdk - 7.0.1[0m
+2021-10-11 17:12:02.988 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-11 17:12:02.989 +0530 [debug] ([34mupdater.js[0m) [31mremote addon - 1.9.11, local addon - 0.0.0[0m
+2021-10-11 17:12:04.408 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-11 17:12:04.411 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]}}[0m
+2021-10-11 17:12:04.419 +0530 [info] Installed: 7.0.1
+2021-10-11 17:12:04.522 +0530 [info] Already Up to Date..!
+2021-10-11 17:12:15.504 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v12.13.0 on win32[0m
+2021-10-11 17:12:16.256 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\aadar\Desktop\PROJECTS\Custom Apps/.fdk/store.sqlite"[0m
+2021-10-11 17:12:16.394 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"create","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-10-11 17:12:16.395 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1633952524410}}[0m
+2021-10-11 17:12:16.396 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than an day ago, not looking for updates[0m
+2021-10-11 17:12:16.529 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1633952524410}}[0m
+2021-10-11 17:12:16.540 +0530 [debug] ([34minit.js[0m) [31m'init' called with C:\Users\aadar\Desktop\PROJECTS\Custom Apps, undefined, undefined[0m
+2021-10-12 16:05:50.295 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v12.13.0 on win32[0m
+2021-10-12 16:07:35.732 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\aadar\Desktop\PROJECTS\Custom Apps/.fdk/store.sqlite"[0m
+2021-10-12 16:07:50.123 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"create","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-10-12 16:07:50.147 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1633952524410}}[0m
+2021-10-12 16:07:50.147 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than an day ago, not looking for updates[0m
+2021-10-12 16:07:50.630 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1633952524410}}[0m
+2021-10-12 16:07:50.932 +0530 [debug] ([34minit.js[0m) [31m'init' called with C:\Users\aadar\Desktop\PROJECTS\Custom Apps, undefined, undefined[0m
+2021-10-12 16:08:20.167 +0530 [debug] ([34minit.js[0m) [31mInitializing template "your_first_app" with product "freshdesk".[0m
+2021-10-12 16:08:20.751 +0530 [info] A new Freshdesk app was successfully created from template "your_first_app" with the following files.
+
+2021-10-12 16:36:38.551 +0530 [debug] ([34mlogger.js[0m) [31mStarting FDK in node v12.13.0 on win32[0m
+2021-10-12 16:37:00.190 +0530 [debug] ([34msequelize.js[0m) [31msetting up sqilite at "C:\Users\aadar\Desktop\PROJECTS\Custom Apps/.fdk/store.sqlite"[0m
+2021-10-12 16:37:02.487 +0530 [debug] ([34mindex.js[0m) [31mRunning with args {"cmd":"run","gopts":{},"opts":{},"goptArg":{},"optArg":{},"args":[]}[0m
+2021-10-12 16:37:02.499 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1633952524410}}[0m
+2021-10-12 16:37:02.499 +0530 [debug] ([34mupdater.js[0m) [31mlast check less than an day ago, not looking for updates[0m
+2021-10-12 16:37:07.268 +0530 [debug] ([34mmanifest.js[0m) [31mReloading manifest with {"platform-version":"2.0","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"whitelisted-domains":[],"engines":{"node":"12.13.0","fdk":"7.0.1"}}.[0m
+2021-10-12 16:37:07.269 +0530 [debug] ([34mmanifest.js[0m) [31mInferred db as features.[0m
+2021-10-12 16:37:07.316 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1633952524410}}[0m
+2021-10-12 16:37:07.531 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1633952524410}}[0m
+2021-10-12 16:37:16.067 +0530 [debug] ([34mfile-util.js[0m) [31mError while requiring C:\Users\aadar\Desktop\PROJECTS\Custom Apps/.report.json: Cannot find module 'C:\Users\aadar\Desktop\PROJECTS\Custom Apps/.report.json'
+Require stack:
+- C:\Users\aadar\AppData\Roaming\npm\node_modules\fdk\lib\utils\file-util.js
+- C:\Users\aadar\AppData\Roaming\npm\node_modules\fdk\index.js[0m
+2021-10-12 16:37:38.067 +0530 [debug] ([34mdata-util.js[0m) [31mRead {"version_details":{"fdkCli":{"version":"7.0.1","dl":"https://dl.freshdev.io/cli/fdk-7.0.1.tgz","cmd":"npm install https://dl.freshdev.io/cli/fdk-7.0.1.tgz -g"},"addon":{"version":"1.9.11","dl":"https://dl.freshdev.io/cli-addon/addon-1.9.11.zip"},"forced_versions":["4.3.6"]},"last_updated":{"time_stamp":1633952524410}}[0m
+2021-10-12 16:38:14.021 +0530 [debug] ([34mvalidate.js[0m) [31masked to skip the following validations, [0m
+2021-10-12 16:38:14.022 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator actions[0m
+2021-10-12 16:38:14.023 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator app-dir[0m
+2021-10-12 16:38:14.074 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator config-dir[0m
+2021-10-12 16:38:14.074 +0530 [debug] ([34mconfig-dir.js[0m) [31mChecking to see if C:\Users\aadar\Desktop\PROJECTS\Custom Apps/config/ exists.[0m
+2021-10-12 16:38:14.075 +0530 [debug] ([34mconfig-dir.js[0m) [31mFetched the following config files iparams.json[0m
+2021-10-12 16:38:14.076 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator custom-objects[0m
+2021-10-12 16:38:14.077 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator event[0m
+2021-10-12 16:38:14.077 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator iparam[0m
+2021-10-12 16:38:14.105 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator lint[0m
+2021-10-12 16:38:14.105 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator manifest[0m
+2021-10-12 16:38:14.105 +0530 [debug] ([34mmanifest.js[0m) [31mChoosing Default validator[0m
+2021-10-12 16:38:14.127 +0530 [warn] [33m[WARN][0m We recommend to move to platform version 2.2 as we plan to deprecate the previous versions soon. Please refer https://community.developers.freshworks.com/t/how-to-migrate-to-platform-version-2-2/3443 to know more details
+2021-10-12 16:38:14.180 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator manifest-dependency[0m
+2021-10-12 16:38:14.181 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator oauth[0m
+2021-10-12 16:38:14.181 +0530 [debug] ([34mvalidate.js[0m) [31mskipping validator pkgsize[0m
+2021-10-12 16:38:14.182 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator schema[0m
+2021-10-12 16:38:14.182 +0530 [debug] ([34mvalidate.js[0m) [31mrunning validator version-check[0m
+2021-10-12 16:38:14.186 +0530 [debug] ([34mwatcher.js[0m) [31mPreparing to watch the following files ./app,./config,./manifest.json[0m
+2021-10-12 16:38:14.201 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:38:14.202 +0530 [debug] ([34mcustom-objects.js[0m) [31mto force or not? false[0m
+2021-10-12 16:38:14.202 +0530 [debug] ([34mcustom-objects.js[0m) [31mbeginning to re-sync db[0m
+2021-10-12 16:38:18.555 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\aadar\AppData\Roaming\npm\node_modules\fdk\lib\models\bigint-pivot.js"[0m
+2021-10-12 16:38:18.619 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\aadar\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field-choice.js"[0m
+2021-10-12 16:38:18.673 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\aadar\AppData\Roaming\npm\node_modules\fdk\lib\models\entity-field.js"[0m
+2021-10-12 16:38:18.677 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\aadar\AppData\Roaming\npm\node_modules\fdk\lib\models\entity.js"[0m
+2021-10-12 16:38:18.679 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\aadar\AppData\Roaming\npm\node_modules\fdk\lib\models\record.js"[0m
+2021-10-12 16:38:18.719 +0530 [debug] ([34mindex.js[0m) [31mloading model at "C:\Users\aadar\AppData\Roaming\npm\node_modules\fdk\lib\models\string-pivot.js"[0m
+2021-10-12 16:38:18.776 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:38:18.778 +0530 [debug] ([34mcustom-objects.js[0m) [31mupdated local store with latest entity hash[0m
+2021-10-12 16:38:18.780 +0530 [info] Starting local testing server at http://*:10001/    
+Append 'dev=true' to your Freshdesk account URL to start testing    
+e.g. https://domain.freshdesk.com/a/tickets/1?dev=true    
+Quit the server with Control-C.
+2021-10-12 16:39:07.961 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:07.962 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:07.983 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:07.983 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:08.055 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:08.056 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:08.070 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:08.070 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:08.085 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:08.085 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:08.097 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:08.098 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:08.110 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:08.110 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:08.144 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:39:08.178 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:39:08.179 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:39:10.776 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:39:18.304 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:18.304 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:18.315 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:18.316 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:18.355 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:18.355 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:18.372 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:18.372 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:18.388 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:18.388 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:18.402 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:18.403 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:18.416 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:39:18.417 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:39:18.555 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:39:18.667 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:39:18.668 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:39:20.840 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:39:22.840 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:40:28.348 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2021-10-12 16:40:28.359 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2021-10-12 16:40:28.362 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:40:28.370 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:40:28.413 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:40:28.414 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:40:31.491 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:40:49.745 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2021-10-12 16:40:49.771 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2021-10-12 16:40:49.786 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:40:49.841 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:40:49.842 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:40:52.483 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:41:02.488 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2021-10-12 16:41:02.506 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:41:02.527 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2021-10-12 16:41:02.538 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:41:02.595 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:41:02.596 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:41:04.753 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:41:06.743 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:41:23.499 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2021-10-12 16:41:23.509 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:41:23.583 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"index.html"}" to all listeners.[0m
+2021-10-12 16:41:23.603 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:41:23.647 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:41:23.648 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:41:26.487 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:46:05.075 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:46:05.079 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:46:05.091 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:46:05.146 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:46:05.147 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:46:08.501 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:47:16.203 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:47:24.911 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:24.913 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:24.917 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:24.919 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:24.950 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:47:25.002 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:47:25.003 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:47:27.489 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:47:28.044 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:28.114 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:28.118 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:28.121 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:28.122 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:47:28.134 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:47:28.182 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:47:28.184 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:47:30.483 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:47:31.011 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:31.013 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:31.017 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:31.031 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:47:31.079 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:47:31.080 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:47:33.489 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:47:38.643 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:38.647 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:38.650 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:38.665 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:47:38.720 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:47:38.721 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:47:40.850 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:47:41.493 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:41.497 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:41.500 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:41.503 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:47:41.523 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:47:41.574 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:47:41.576 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:47:43.753 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:49:02.975 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:49:02.979 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:49:02.982 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:49:02.985 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:49:02.999 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:49:03.043 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:49:03.044 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:49:05.594 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:49:05.597 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:49:05.600 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:49:05.603 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:49:05.622 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:49:05.673 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:49:05.674 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:49:08.491 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:49:13.828 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:52:35.109 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:52:35.186 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:52:35.190 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:52:35.194 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:52:35.197 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:52:35.208 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:52:35.253 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:52:35.254 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:52:37.496 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:52:37.760 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:52:37.844 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:52:37.848 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:52:37.852 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:52:37.853 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:52:37.864 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:52:37.917 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:52:37.918 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:52:40.488 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:52:50.055 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:53:04.115 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:04.116 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:04.127 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:04.128 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:04.582 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:04.583 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:04.647 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:04.647 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:04.660 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:04.660 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:04.684 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:53:04.698 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:04.698 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:04.719 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:53:04.721 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:53:07.488 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:53:10.495 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:10.497 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:10.501 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:10.504 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:10.534 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:53:10.584 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:53:10.585 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:53:13.492 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:53:13.555 +0530 [debug] ([34mcoverage-util.js[0m) [31mError Cannot read property 'start' of undefined while writing coverage report.[0m
+2021-10-12 16:53:13.555 +0530 [debug] ([34mcoverage-util.js[0m) [31mFlushing coverage.[0m
+2021-10-12 16:53:19.740 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:19.744 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:19.777 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:53:19.831 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:53:19.846 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:53:19.876 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:19.878 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:22.029 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:53:34.255 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:34.255 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:34.270 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:34.270 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:34.695 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:34.695 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:34.723 +0530 [debug] ([34mdata-util.js[0m) [31mRead {}[0m
+2021-10-12 16:53:34.723 +0530 [debug] ([34miframe.js[0m) [31mResponding to product with {"configs":{},"displayName":"Custom Apps","product":{"freshdesk":{"location":{"ticket_sidebar":{"url":"index.html","icon":"styles/images/icon.svg"}}}},"features":["db"],"actions":false,"omni":false,"products":["freshdesk"],"platform":"2.0","v2":[]}[0m
+2021-10-12 16:53:34.763 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:53:34.794 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:53:34.795 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:53:37.059 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:53:42.124 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:42.163 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:42.166 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:42.170 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:53:42.172 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:53:42.183 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:53:42.231 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:53:42.232 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:53:44.370 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:53:44.371 +0530 [debug] ([34mcoverage-util.js[0m) [31mError Cannot read property 'start' of undefined while writing coverage report.[0m
+2021-10-12 16:53:44.371 +0530 [debug] ([34mcoverage-util.js[0m) [31mFlushing coverage.[0m
+2021-10-12 16:54:10.364 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:54:10.368 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:54:10.371 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:54:10.374 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 16:54:10.389 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /index.html[0m
+2021-10-12 16:54:10.437 +0530 [debug] ([34miframe.js[0m) [31mResponding with contents of /scripts/app.js[0m
+2021-10-12 16:54:10.438 +0530 [debug] ([34mcoverage-util.js[0m) [31mInstrumenting C:\Users\aadar\Desktop\PROJECTS\Custom Apps\app\scripts\app.js[0m
+2021-10-12 16:54:12.702 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 16:54:14.700 +0530 [debug] ([34mcoverage-util.js[0m) [31mWriting coverage.[0m
+2021-10-12 17:02:59.604 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 17:02:59.609 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 17:02:59.612 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
+2021-10-12 17:02:59.614 +0530 [debug] ([34mwatcher.js[0m) [31mBroadcasted "{"file":"scripts\\app.js"}" to all listeners.[0m
